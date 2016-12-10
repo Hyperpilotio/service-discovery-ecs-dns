@@ -1,4 +1,10 @@
 # Service Discovery for AWS EC2 Container Service
+
+# NOTE Customized by Hyperpilot.io
+
+* run.sh specify the value of DNSName, weave-ecs-demo.internal.
+
+
 ## Goals
 This project has been created to facilitate the creation of MicroServices on top of AWS ECS.
 
